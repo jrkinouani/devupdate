@@ -41,8 +41,10 @@ navbar-default .navbar-brand {
 h1.pvaleur
 {
     color: black;
-    font-weight: 400;
-    font-size: 50px;
+    font-weight: 900;
+    font-size: 45px;
+    margin-bottom: 60px;
+    line-height: 1.3em;
 }
 #content-pvaleur
  {
@@ -50,5 +52,39 @@ h1.pvaleur
 }
 #home.row
 {
-    margin-top: 100px;
+    margin-top: 50px;
+}
+h4.baseline
+{
+    line-height: 1.3em;
+}
+input.btn.btn-danger.btn-lg
+    {
+        padding: 20px;
+        background-color:  #ff6600!important;
+        border-color:  #ff6600!important ;
+        color: #fff;
+        margin-top:30px;
+    }
+input.btn.btn-default.btn-lg
+        {
+
+            border-color:  #ff6600!important  ;
+            color: #ff6600!important;
+        }
+h2.title1
+{
+    font-size: 30px;
+    line-height: 1.3em;
+    color: black;
+    margin-top: 60px;
+    margin-bottom: 80px;
+}
+h2.qualité
+{
+    margin-bottom: 36px;
+    font-family: Graphik-Regular,SimHei;
+    font-size: 28px;
+    color: #4b4b4b;
+    line-height: 1.1em;
 }
